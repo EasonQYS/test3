@@ -1,3 +1,5 @@
 opencv-python
 onnxruntime
 pysimpleguiweb
+BaseDeploy
+BaseDT
